@@ -1,6 +1,6 @@
 # Ex02 – Commercial Website Using CSS Flexbox
 # Date:
-03-11-2026
+02-11-2026
 # AIM
 To create a commercial gaming website using HTML and CSS Flexbox with navigation bar, homepage, game products, about us, contact details and footer.
 # ALGORITHM
